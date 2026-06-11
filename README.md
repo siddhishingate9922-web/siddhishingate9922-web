@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on app development and improving my rpogramming skills<br>🌱 I’m currently learning data structures and algorithms, web development, and UI/UX Design<br>👯 I’m looking to collaborate on open source and hackathon projects<br>💬 Ask me about Python, C programming, Github</p>
+<p align="left">🔭 I’m currently working on app development and improving my rpogramming skills<br>🌱 I’m currently learning data structures and algorithms, web development, and UI/UX Design<br>👯 I’m looking to collaborate on open source and hackathon projects<br>💬 Ask me about Python, C programming, Github 📫 How to reach me: gmail :- siddhishingate9922@gmail.com</p>
 
 ###
 
